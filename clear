@@ -1,0 +1,61 @@
+[33mcommit fa157cbb521915e9b604417542ac01465955f623[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Wed May 26 12:26:22 2021 +0530
+
+    updated
+
+[33mcommit a1714d2568208e80dd6dfd8a71ad451d5827c2c4[m[33m ([m[1;31mfc/devolpment[m[33m, [m[1;32mdevolpment[m[33m)[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Tue May 25 17:38:25 2021 +0530
+
+    merge conflict resolved
+
+[33mcommit 743c13d49f0da6b5e57382604bfd2ed094d5496b[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Tue May 25 17:12:43 2021 +0530
+
+    added users.java file
+
+[33mcommit 840d274257d40dfdc5445d93b473470f2df6c0f2[m[33m ([m[1;31mfc/master[m[33m)[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Tue May 25 16:49:08 2021 +0530
+
+    added .classmate file
+
+[33mcommit 90b7b7ba08ad34d0d3a2f7431295dbab548d76cd[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 19:40:33 2021 +0530
+
+    Reverted... "updated pushu.sh"
+    
+    This reverts commit 53a93a6865c0ff75e5119cbf0c7d79c9ec5f182f.
+
+[33mcommit 53a93a6865c0ff75e5119cbf0c7d79c9ec5f182f[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 19:26:34 2021 +0530
+
+    updated pushu.sh
+
+[33mcommit 6bc58c10bcdd70c715d7d2e476cdee58772f6bcb[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 19:10:39 2021 +0530
+
+    added pushu.sh
+
+[33mcommit 5db9bb4b8a4e87f60e0ac06b2a04aa23b991ebbb[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 12:52:57 2021 +0530
+
+    updated Deployment script
+
+[33mcommit 3248f9545689e45cd30f509f8cd031367a43afa5[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 12:23:32 2021 +0530
+
+    added Deploy.sh
+
+[33mcommit 8eec46446395e7ff390bf365983e26254f5395eb[m
+Author: srikanth6520 <patel6520kolluri@gmail.com>
+Date:   Mon May 24 12:21:30 2021 +0530
+
+    First Commit
